@@ -1,0 +1,3 @@
+Информатика lecture100   practice50  lab20
+Физика   lecture30      lab10
+Физкультура      practice30
